@@ -4,4 +4,3 @@ We are an open-source organisation which values the creation and investigation o
 Our work investigates the nature of changes to ocean mixing and how these contribute to the potential weakening of AMOC.  
 This github profile also contains scripts which help newcomers to ocean modelling understand the python libraries we use.:wrench:  
 Several other projects are hosted here including scripts for turning your Raspberry Pi Microcomputer into a meteorological station.:high_brightness:  
-Message us at: openamoc@gmail.com
